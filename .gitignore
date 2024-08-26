@@ -22,10 +22,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Project-specific
-csv_data_for_testing/*.csv
-src/evaluation_results.json
-
 # Logs
 *.log
 
@@ -52,9 +48,6 @@ share/python-wheels/
 # PyInstaller
 *.manifest
 *.spec
-
-# Jupyter Notebook
-.ipynb_checkpoints
 
 # IPython
 profile_default/

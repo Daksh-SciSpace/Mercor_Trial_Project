@@ -73,12 +73,13 @@ The main source code directory.
 - `system_role_prompt.py`: Defines the system role prompt for AI models.
 - `user_role_prompt.py`: Defines the user role prompt template for each evaluation.
 
-### Mercor trial final.ipynb (Logic for Data Pre-processing)
+### Mercor trial final.ipynb
 A Jupyter notebook containing the data analysis, data formatting, and evaluation process. This notebook includes:
 - Data loading and preprocessing
 - Data formatting for fine-tuning process
 - Evaluation of the fine-tuned model on test data
 - Performance scores
+- You can find the detailed explanation here: https://keen-savory-a61.notion.site/Data-Pre-Processing-for-Mercor-Trial-07eca47a9e9140dfac462a875967108c
 
 ## Setup and Installation
 1. Clone the repository:
